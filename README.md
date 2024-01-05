@@ -7,3 +7,5 @@ Welcome to worker electric vehicle respo.
 -  2- Kinematic steering model
 -  3- Drive system model
 -  4- Half car model for moving vehicle on a road
+-  5- Graduation project documentation
+-  6- Graduation project presentatiom
